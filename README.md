@@ -20,6 +20,19 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 Anexos
 
+
+Link para serviços AWS - Etapa 1 - Projeto AWS - ABSTERGO INDUSTRIES
+
+https://sa-east-1.console.aws.amazon.com/ec2/
+
+Link para serviços AWS - Etapa 2 - Projeto AWS - ABSTERGO INDUSTRIES
+
+https://s3.console.aws.amazon.com/s3/
+
+Link para serviços AWS - Etapa 3 - Projeto AWS - ABSTERGO INDUSTRIES
+
+https://sa-east-1.console.aws.amazon.com/rds/
+
 Assinatura do Responsável pelo Projeto:
 
 Emmanuel Fernandes de Paula.
